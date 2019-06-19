@@ -1,0 +1,10 @@
+{
+  "FaceApiSubscriptionKey": "",
+  "FaceApiEndpointAzure": "",
+  "FaceApiEndpointLocal": "",
+  "EventHubConnectionString": "",
+  "EventHubName": "",
+  "GroupPersonPath": "",
+  "FfmpegExe": "C:\\ffmpeg-4.1.3-win64-static\\bin\\ffmpeg.exe",
+  "FfmpegArgs": " -hide_banner -loglevel quiet -i {0} -r 1 -t 1 -s 1920x1080 {1}"
+}
